@@ -28,6 +28,6 @@
   <inherits name="com.googlecode.gflot.GFlot" />
   <set-property name="gflot.load.jquery" value="EXTERNAL" />
 
-  <script src="jquery-1.8.3.min.js" />
+  <script src="jquery.min.js" />
 
 </module>
